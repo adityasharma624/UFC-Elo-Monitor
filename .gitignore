@@ -1,0 +1,26 @@
+# General Python ignores
+__pycache__/
+*.py[cod]
+*.so
+*.pyo
+
+# Virtual Environment
+venv/
+.env
+
+# Data and Output Files
+data/raw/
+data/processed/
+*.csv
+*.json
+
+# Logs & Debugging Files
+logs/
+*.log
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+
+# OS-Specific
+.DS_Store
+Thumbs.db

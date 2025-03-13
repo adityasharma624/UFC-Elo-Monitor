@@ -60,7 +60,7 @@
 58,UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Ailin Perez,Daria Zhelezniakova,win,SUB,1,3:52
 59,UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Daniel Barez,Victor Altamirano,win,U-DEC,3,5:00
 60,UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Jacqueline Cavalcanti,Nora Cornolle,win,S-DEC,3,5:00
-61,UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Chris Duncan,Bolaji Oki,Win,SUB,1,3:34
+61,UFC Fight Night: Moicano vs. Saint Denis,2024-09-28,Chris Duncan,Bolaji Oki,win,SUB,1,3:34
 62,UFC 306: Riyadh Season Noche UFC,2024-09-14,Merab Dvalishvili,Sean O'Malley,win,U-DEC,5,5:00
 63,UFC 306: Riyadh Season Noche UFC,2024-09-14,Valentina Shevchenko,Alexa Grasso,win,U-DEC,5,5:00
 64,UFC 306: Riyadh Season Noche UFC,2024-09-14,Diego Lopes,Brian Ortega,win,U-DEC,3,5:00
@@ -2071,10 +2071,7 @@
 2069,UFC 254: Khabib vs. Gaethje,2020-10-24,Tai Tuivasa,Stefan Struve,win,KO/TKO,1,4:59
 2070,UFC 254: Khabib vs. Gaethje,2020-10-24,Casey Kenney,Nathaniel Wood,win,U-DEC,3,5:00
 2071,UFC 254: Khabib vs. Gaethje,2020-10-24,Shavkat Rakhmonov,Alex Oliveira,win,SUB,1,4:40
-2072,UFC 254: Khabib vs. Gaethje,2020-10-24,Da Woon Jung,Sam Alvey,"draw
-
-
-draw",S-DEC,3,5:00
+2072,UFC 254: Khabib vs. Gaethje,2020-10-24,Da Woon Jung,Sam Alvey,draw,S-DEC,3,5:00
 2073,UFC 254: Khabib vs. Gaethje,2020-10-24,Miranda Maverick,Liana Jojua,win,KO/TKO,1,5:00
 2074,UFC 254: Khabib vs. Gaethje,2020-10-24,Joel Alvarez,Alexander Yakovlev,win,SUB,1,3:00
 2075,UFC Fight Night: Ortega vs. The Korean Zombie,2020-10-17,Brian Ortega,Chan Sung Jung,win,U-DEC,5,5:00
@@ -2352,10 +2349,7 @@ draw",S-DEC,3,5:00
 2347,UFC Fight Night: Lee vs. Oliveira,2020-03-14,Brandon Moreno,Jussier Formiga,win,U-DEC,3,5:00
 2348,UFC Fight Night: Lee vs. Oliveira,2020-03-14,Amanda Ribas,Randa Markos,win,U-DEC,3,5:00
 2349,UFC Fight Night: Lee vs. Oliveira,2020-03-14,Elizeu Zaleski dos Santos,Aleksei Kunchenko,win,U-DEC,3,5:00
-2350,UFC Fight Night: Lee vs. Oliveira,2020-03-14,Rani Yahya,Enrique Barzola,"draw
-
-
-draw",M-DEC,3,5:00
+2350,UFC Fight Night: Lee vs. Oliveira,2020-03-14,Rani Yahya,Enrique Barzola,draw,M-DEC,3,5:00
 2351,UFC Fight Night: Lee vs. Oliveira,2020-03-14,Maryna Moroz,Mayra Bueno Silva,win,U-DEC,3,5:00
 2352,UFC Fight Night: Lee vs. Oliveira,2020-03-14,David Dvorak,Bruno Silva,win,U-DEC,3,5:00
 2353,UFC Fight Night: Lee vs. Oliveira,2020-03-14,Bea Malecki,Veronica Hardy,win,U-DEC,3,5:00
@@ -5878,7 +5872,7 @@ draw",M-DEC,3,5:00
 5870,UFC 149: Faber vs Barao,2012-07-21,Tim Boetsch,Hector Lombard,win,S-DEC,3,5:00
 5871,UFC 149: Faber vs Barao,2012-07-21,Cheick Kongo,Shawn Jordan,win,U-DEC,3,5:00
 5872,UFC 149: Faber vs Barao,2012-07-21,James Head,Brian Ebersole,win,S-DEC,3,5:00
-5873,UFC 149: Faber vs Barao,2012-07-21,Chris Clements,Matthew Riddle,Nc,Overturned,3,2:02
+5873,UFC 149: Faber vs Barao,2012-07-21,Chris Clements,Matthew Riddle,nc,Overturned,3,2:02
 5874,UFC 149: Faber vs Barao,2012-07-21,Nick Ring,Court McGee,win,U-DEC,3,5:00
 5875,UFC 149: Faber vs Barao,2012-07-21,Roland Delorme,Francisco Rivera,nc,Overturned,1,4:19
 5876,UFC 149: Faber vs Barao,2012-07-21,Ryan Jimmo,Anthony Perosh,win,KO/TKO,1,0:07
